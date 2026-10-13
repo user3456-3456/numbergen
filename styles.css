@@ -22,10 +22,10 @@
   cursor: pointer;
 }
 
-/* h1 styles
+/* h1 styles */
 h1 {
-  text-align: center;
+  font-family: 'Arial', sans-serif;
   font-size: 36px;
   color: #333;
   margin-bottom: 20px;
-} */
+}
