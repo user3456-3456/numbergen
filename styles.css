@@ -1,5 +1,6 @@
 /* Main tag styles */
 .container {
+  text-align: center;
   width: 100%;
   max-width: 1200px;
   margin: 0 auto;
@@ -21,10 +22,10 @@
   cursor: pointer;
 }
 
-/*h1 styles */
+/* h1 styles
 h1 {
   text-align: center;
   font-size: 36px;
   color: #333;
   margin-bottom: 20px;
-}
+} */
